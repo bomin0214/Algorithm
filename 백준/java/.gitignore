@@ -28,6 +28,15 @@ bin/
 ### Mac OS ###
 .DS_Store
 
+# IntelliJ 설정
+.idea/
+
+# 빌드 결과물
+out/
+
+# 기타
+*.iml
+
 # 모든 파일 무시
 *
 
@@ -39,3 +48,4 @@ bin/
 
 # gitignore는 포함해야 함
 !.gitignore
+

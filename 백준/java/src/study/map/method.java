@@ -18,7 +18,7 @@ public class method {
         System.out.println("A값: "+map.get("A"));
 
         // containsKey
-        System.out.println("A값 존재?: "+map.containsKey("A"));
+        System.out.println("A값 존재?: " + map.containsKey("A"));
 
         // containsValue
         System.out.println("값이 40인거 존재하나?: "+map.containsValue(40));

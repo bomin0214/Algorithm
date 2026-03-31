@@ -1,4 +1,4 @@
-package silver.step4;
+package 백준.silver.step4;
 
 import java.io.*;
 import java.util.*;

@@ -1,4 +1,4 @@
-package silver.step3;
+package 백준.silver.step3;
 
 import java.io.*;
 import java.util.HashSet;

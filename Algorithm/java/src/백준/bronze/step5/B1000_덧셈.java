@@ -1,4 +1,4 @@
-package bronze.step5;
+package 백준.bronze.step5;
 
 import java.io.*;
 import java.util.StringTokenizer;

@@ -1,0 +1,22 @@
+# IntelliJ
+.idea/
+*.iml
+
+# build
+out/
+build/
+target/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+
+# vscode
+.vscode/
+
+# python
+__pycache__/
+*.pyc

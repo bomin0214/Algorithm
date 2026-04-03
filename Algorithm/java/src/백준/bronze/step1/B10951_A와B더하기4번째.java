@@ -13,7 +13,7 @@ public class B10951_A와B더하기4번째 {
 
         while ((line = br.readLine()) != null) {
             st = new StringTokenizer(line, " ");
-            if (line.trim().isEmpty())
+            if (line.isEmpty())
                 break;
             int N = Integer.parseInt(st.nextToken());
             int M = Integer.parseInt(st.nextToken());

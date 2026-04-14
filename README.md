@@ -6,6 +6,5 @@
 | BOJ (백준) | `boj: 문제번호 문제이름 (난이도)` | `boj: 1260 DFS와 BFS (Silver 2)` |
 | Programmers (프로그래머스) | `programmers: 문제이름 (Level)` | `programmers: 올바른 괄호 (Level 2)` |
 
-## 다시 풀기
-- 10951
-- 10952
+## 이해 x
+- 10986: 나머지 합 (Gold 3)
